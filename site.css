@@ -81,7 +81,7 @@ body {
 
 .footer {
   padding: 20px; /* Some padding */
-  text-align: center; /* Center text*/
+  text-align: left; /* Center text*/
   background: #ddd; /* Grey background */
   font-family: 'Lobster',cursive;
   color:#000000;
@@ -132,5 +132,9 @@ body {
 /* Github */
 .fa-github {
  background: #787878;
+ color: white;
+}
+.fa-bars {
+ background: #ddd;
  color: white;
 }
