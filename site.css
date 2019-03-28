@@ -83,6 +83,8 @@ body {
   padding: 20px; /* Some padding */
   text-align: center; /* Center text*/
   background: #ddd; /* Grey background */
+  font-family: 'Lobster',cursive;
+  color:#000000;
 }
 
 /* Style all font awesome icons */
